@@ -34,3 +34,8 @@ How to run the program:
 ## Testing
 
 In `/spec` run `bundle exec rspec carousel_scraper_spec.rb` to test `carousel_scraper.rb`
+
+Result:
+
+<img width="612" alt="Screen Shot 2023-07-21 at 7 44 09 PM" src="https://github.com/kylelong/carousel-scraper/assets/6677487/160b35e0-23e6-4d99-887a-24a711e4c4ae">
+
